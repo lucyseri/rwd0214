@@ -1,0 +1,22 @@
+.footer{
+  width: 100%;
+  height: auto;
+  background-color: #000;
+}
+.footer .inner-footer{
+  display: flex;
+  justify-content: center;
+}
+.footer .inner-footer .fcon{
+  flex: 0 1 520px;
+  height: 200px;
+  text-align: center;
+  line-height: 100px;
+  padding: 50px 0;
+  box-sizing: border-box;
+  color: #fff;
+}
+.footer .inner-footer .fcon a{
+  color: #fff;
+  text-decoration: underline;
+}
